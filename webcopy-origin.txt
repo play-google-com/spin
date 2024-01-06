@@ -1,0 +1,524 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css?ver=6.3.2
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\ajax\libs\font-awesome\5.15.4\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.eot
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.eot?
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.svg
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.woff
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.woff2
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.eot
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.eot?
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.svg
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.woff
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.woff2
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.eot
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.eot?
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.svg
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.woff
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://dl2.rummy-club.net/Max.apk
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\Max.apk
+Content Type: application/vnd.android.package-archive
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.3.2
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://masterteenpatti.in/
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\index.htm
+Content Type: text/html
+
+Uri: https://masterteenpatti.in/about/
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\about\index.htm
+Content Type: text/html
+
+Uri: https://masterteenpatti.in/comments/feed/
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://masterteenpatti.in/contact-us/
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://masterteenpatti.in/faq/
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\faq\index.htm
+Content Type: text/html
+
+Uri: https://masterteenpatti.in/feed/
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://masterteenpatti.in/privacy-policy-2/
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\privacy-policy-2\index.htm
+Content Type: text/html
+
+Uri: https://masterteenpatti.in/rummy-slots-max/
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\rummy-slots-max\index.htm
+Content Type: text/html
+
+Uri: https://masterteenpatti.in/teen-patti-epic/
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\teen-patti-epic\index.htm
+Content Type: text/html
+
+Uri: https://masterteenpatti.in/teen-patti-gold/
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\teen-patti-gold\index.htm
+Content Type: text/html
+
+Uri: https://masterteenpatti.in/terms-conditions/
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\terms-conditions\index.htm
+Content Type: text/html
+
+Uri: https://masterteenpatti.in/wp-content/plugins/buttonizer-multifunctional-button/assets/frontend.css?v=4a89d0019c30921f5baebfd2ead404f6&ver=6.3.2
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\buttonizer-multifunctional-button\assets\frontend.css
+Content Type: text/css
+
+Uri: https://masterteenpatti.in/wp-content/plugins/buttonizer-multifunctional-button/assets/frontend.min.js?v=4a89d0019c30921f5baebfd2ead404f6&ver=6.3.2
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\buttonizer-multifunctional-button\assets\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://masterteenpatti.in/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.6.5
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://masterteenpatti.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.5
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://masterteenpatti.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.5
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://masterteenpatti.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.5
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://masterteenpatti.in/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.15.0
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://masterteenpatti.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.15.0
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://masterteenpatti.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.15.0
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://masterteenpatti.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.15.0
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://masterteenpatti.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.15.0
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://masterteenpatti.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.15.0
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://masterteenpatti.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://masterteenpatti.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://masterteenpatti.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://masterteenpatti.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://masterteenpatti.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://masterteenpatti.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://masterteenpatti.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://masterteenpatti.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://masterteenpatti.in/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://masterteenpatti.in/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://masterteenpatti.in/wp-content/themes/hello-elementor/style.min.css?ver=2.5.0
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://masterteenpatti.in/wp-content/themes/hello-elementor/theme.min.css?ver=2.5.0
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://masterteenpatti.in/wp-content/uploads/2022/06/teen-patti-master-logo-150x150.webp
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\2022\06\teen-patti-master-logo-150x150.webp
+Content Type: image/webp
+
+Uri: https://masterteenpatti.in/wp-content/uploads/2022/06/teen-patti-master-logo.webp
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\2022\06\teen-patti-master-logo.webp
+Content Type: image/webp
+
+Uri: https://masterteenpatti.in/wp-content/uploads/2023/04/rummy-slots-max-app.webp
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\2023\04\rummy-slots-max-app.webp
+Content Type: image/webp
+
+Uri: https://masterteenpatti.in/wp-content/uploads/2023/04/slots-max-199x300.webp
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\2023\04\slots-max-199x300.webp
+Content Type: image/webp
+
+Uri: https://masterteenpatti.in/wp-content/uploads/2023/04/slots-max.webp
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\2023\04\slots-max.webp
+Content Type: image/webp
+
+Uri: https://masterteenpatti.in/wp-content/uploads/2023/04/teen-patt-gold.webp
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\2023\04\teen-patt-gold.webp
+Content Type: image/webp
+
+Uri: https://masterteenpatti.in/wp-content/uploads/2023/04/teen-patti-gold-bg-179x300.webp
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\2023\04\teen-patti-gold-bg-179x300.webp
+Content Type: image/webp
+
+Uri: https://masterteenpatti.in/wp-content/uploads/2023/04/teen-patti-gold-bg-612x1024.webp
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\2023\04\teen-patti-gold-bg-612x1024.webp
+Content Type: image/webp
+
+Uri: https://masterteenpatti.in/wp-content/uploads/2023/04/teen-patti-gold-bg.webp
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\2023\04\teen-patti-gold-bg.webp
+Content Type: image/webp
+
+Uri: https://masterteenpatti.in/wp-content/uploads/2023/09/teen-patti-epic-1.webp
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\2023\09\teen-patti-epic-1.webp
+Content Type: image/webp
+
+Uri: https://masterteenpatti.in/wp-content/uploads/2023/09/teen-patti-epic-255x300.webp
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\2023\09\teen-patti-epic-255x300.webp
+Content Type: image/webp
+
+Uri: https://masterteenpatti.in/wp-content/uploads/2023/09/teen-patti-epic.webp
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\2023\09\teen-patti-epic.webp
+Content Type: image/webp
+
+Uri: https://masterteenpatti.in/wp-content/uploads/2023/09/teen-patti-master-back-178x300.webp
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\2023\09\teen-patti-master-back-178x300.webp
+Content Type: image/webp
+
+Uri: https://masterteenpatti.in/wp-content/uploads/2023/09/teen-patti-master-back.webp
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\2023\09\teen-patti-master-back.webp
+Content Type: image/webp
+
+Uri: https://masterteenpatti.in/wp-content/uploads/elementor/css/global.css?ver=1697941315
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://masterteenpatti.in/wp-content/uploads/elementor/css/post-268.css?ver=1697941335
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\elementor\css\post-268.css
+Content Type: text/css
+
+Uri: https://masterteenpatti.in/wp-content/uploads/elementor/css/post-297.css?ver=1697941606
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\elementor\css\post-297.css
+Content Type: text/css
+
+Uri: https://masterteenpatti.in/wp-content/uploads/elementor/css/post-441.css?ver=1697941866
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\elementor\css\post-441.css
+Content Type: text/css
+
+Uri: https://masterteenpatti.in/wp-content/uploads/elementor/css/post-5.css?ver=1697941315
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\elementor\css\post-5.css
+Content Type: text/css
+
+Uri: https://masterteenpatti.in/wp-content/uploads/elementor/css/post-52.css?ver=1703670281
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-content\uploads\elementor\css\post-52.css
+Content Type: text/css
+
+Uri: https://masterteenpatti.in/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://masterteenpatti.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://masterteenpatti.in/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://masterteenpatti.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://masterteenpatti.in/wp-json/
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://masterteenpatti.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fmasterteenpatti.in%2F
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://masterteenpatti.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fmasterteenpatti.in%2F&format=xml
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://masterteenpatti.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fmasterteenpatti.in%2Fabout%2F
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://masterteenpatti.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fmasterteenpatti.in%2Fabout%2F&format=xml
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://masterteenpatti.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fmasterteenpatti.in%2Fcontact-us%2F
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://masterteenpatti.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fmasterteenpatti.in%2Fcontact-us%2F&format=xml
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://masterteenpatti.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fmasterteenpatti.in%2Ffaq%2F
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://masterteenpatti.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fmasterteenpatti.in%2Ffaq%2F&format=xml
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://masterteenpatti.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fmasterteenpatti.in%2Fprivacy-policy-2%2F
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://masterteenpatti.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fmasterteenpatti.in%2Fprivacy-policy-2%2F&format=xml
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://masterteenpatti.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fmasterteenpatti.in%2Frummy-slots-max%2F
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://masterteenpatti.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fmasterteenpatti.in%2Frummy-slots-max%2F&format=xml
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://masterteenpatti.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fmasterteenpatti.in%2Fteen-patti-epic%2F
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://masterteenpatti.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fmasterteenpatti.in%2Fteen-patti-epic%2F&format=xml
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://masterteenpatti.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fmasterteenpatti.in%2Fteen-patti-gold%2F
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://masterteenpatti.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fmasterteenpatti.in%2Fteen-patti-gold%2F&format=xml
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://masterteenpatti.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fmasterteenpatti.in%2Fterms-conditions%2F
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://masterteenpatti.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fmasterteenpatti.in%2Fterms-conditions%2F&format=xml
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://masterteenpatti.in/wp-json/wp/v2/pages/114
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\wp\v2\pages\114
+Content Type: application/json
+
+Uri: https://masterteenpatti.in/wp-json/wp/v2/pages/116
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\wp\v2\pages\116
+Content Type: application/json
+
+Uri: https://masterteenpatti.in/wp-json/wp/v2/pages/119
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\wp\v2\pages\119
+Content Type: application/json
+
+Uri: https://masterteenpatti.in/wp-json/wp/v2/pages/268
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\wp\v2\pages\268
+Content Type: application/json
+
+Uri: https://masterteenpatti.in/wp-json/wp/v2/pages/297
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\wp\v2\pages\297
+Content Type: application/json
+
+Uri: https://masterteenpatti.in/wp-json/wp/v2/pages/441
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\wp\v2\pages\441
+Content Type: application/json
+
+Uri: https://masterteenpatti.in/wp-json/wp/v2/pages/52
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\wp\v2\pages\52
+Content Type: application/json
+
+Uri: https://masterteenpatti.in/wp-json/wp/v2/pages/72
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\wp\v2\pages\72
+Content Type: application/json
+
+Uri: https://masterteenpatti.in/wp-json/wp/v2/pages/73
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\wp-json\wp\v2\pages\73
+Content Type: application/json
+
+Uri: https://masterteenpatti.in/xmlrpc.php?rsd
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-VK3TM3K40L
+File Name: C:\Users\Uma Shankar\Desktop\masterteenpatti.in\gtag\js
+Content Type: application/javascript
+
