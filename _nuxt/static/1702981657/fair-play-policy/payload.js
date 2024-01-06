@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/fair-play-policy", {data:[{}],fetch:{},mutations:void 0});

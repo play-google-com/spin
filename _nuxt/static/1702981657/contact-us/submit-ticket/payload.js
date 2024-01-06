@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/contact-us/submit-ticket", {data:[{}],fetch:{},mutations:void 0});

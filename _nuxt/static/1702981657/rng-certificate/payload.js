@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/rng-certificate", {data:[{}],fetch:{},mutations:void 0});

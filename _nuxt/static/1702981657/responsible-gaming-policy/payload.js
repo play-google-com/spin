@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/responsible-gaming-policy", {data:[{}],fetch:{},mutations:void 0});
